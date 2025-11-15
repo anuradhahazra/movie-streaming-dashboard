@@ -1,5 +1,7 @@
 # Movie Streaming Dashboard
 
+🔗 **Live Demo:** https://movie-streaming-dashboard.vercel.app
+
 A modern, Netflix-style movie streaming dashboard built with Next.js 14, TypeScript, and TailwindCSS. This application fetches movie data from The Movie Database (TMDB) API and displays it in a beautiful, responsive interface.
 
 ## Features
@@ -102,8 +104,6 @@ The easiest way to deploy this Next.js app is to use [Vercel](https://vercel.com
 2. Import your repository on Vercel
 3. Add your `TMDB_API_KEY` environment variable
 4. Deploy!
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=<your-repo-url>)
 
 ### Environment Variables
 
